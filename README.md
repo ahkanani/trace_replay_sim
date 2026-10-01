@@ -39,4 +39,4 @@ The subsequent commit adds only this README, ignore rules, and the parent
 project's inherited MIT license.
 
 The repository is published at https://github.com/ahkanani/trace_replay_sim
-on branch `codex/trace-replay-extracted`.
+on branch `main`.
