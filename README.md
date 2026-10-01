@@ -38,5 +38,5 @@ recover earlier development commits that were absent from the published branch.
 The subsequent commit adds only this README, ignore rules, and the parent
 project's inherited MIT license.
 
-The local branch is `codex/trace-replay-extracted`. No remote is configured,
-and nothing has been published.
+The repository is published at https://github.com/ahkanani/trace_replay_sim
+on branch `codex/trace-replay-extracted`.
